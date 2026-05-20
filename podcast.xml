@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TOEIC Listening Practice</title>
+    <link>https://github.com/TastyHeadphones/TOEIC</link>
+    <language>en-us</language>
+    <copyright>Copyright 2026</copyright>
+    <description>TOEIC listening practice audio for TEST 01 through TEST 10.</description>
+    <itunes:author>TastyHeadphones</itunes:author>
+    <itunes:summary>TOEIC listening practice audio for TEST 01 through TEST 10.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://media.githubusercontent.com/media/TastyHeadphones/TOEIC/main/artwork/podcast-cover.jpg" />
+    <itunes:category text="Education">
+      <itunes:category text="Language Learning" />
+    </itunes:category>
+    <lastBuildDate>Wed, 20 May 2026 13:11:51 +0000</lastBuildDate>
+    <item>
+      <title>TOEIC Listening Test 01</title>
+      <description>TOEIC Listening Test 01 practice audio.</description>
+      <itunes:summary>TOEIC Listening Test 01 practice audio.</itunes:summary>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>0:49:22</itunes:duration>
+      <itunes:image href="https://media.githubusercontent.com/media/TastyHeadphones/TOEIC/main/artwork/podcast-cover.jpg" />
+      <enclosure url="https://media.githubusercontent.com/media/TastyHeadphones/TOEIC/main/Audio/toeic-listening-test-01.mp3" length="47386958" type="audio/mpeg" />
+      <guid isPermaLink="false">toeic-listening-test-01</guid>
+      <pubDate>Wed, 20 May 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TOEIC Listening Test 02</title>
+      <description>TOEIC Listening Test 02 practice audio.</description>
+      <itunes:summary>TOEIC Listening Test 02 practice audio.</itunes:summary>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>0:46:03</itunes:duration>
+      <itunes:image href="https://media.githubusercontent.com/media/TastyHeadphones/TOEIC/main/artwork/podcast-cover.jpg" />
+      <enclosure url="https://media.githubusercontent.com/media/TastyHeadphones/TOEIC/main/Audio/toeic-listening-test-02.mp3" length="44205453" type="audio/mpeg" />
+      <guid isPermaLink="false">toeic-listening-test-02</guid>
+      <pubDate>Wed, 20 May 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TOEIC Listening Test 03</title>
+      <description>TOEIC Listening Test 03 practice audio.</description>
+      <itunes:summary>TOEIC Listening Test 03 practice audio.</itunes:summary>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>0:48:26</itunes:duration>
+      <itunes:image href="https://media.githubusercontent.com/media/TastyHeadphones/TOEIC/main/artwork/podcast-cover.jpg" />
+      <enclosure url="https://media.githubusercontent.com/media/TastyHeadphones/TOEIC/main/Audio/toeic-listening-test-03.mp3" length="46497541" type="audio/mpeg" />
+      <guid isPermaLink="false">toeic-listening-test-03</guid>
+      <pubDate>Wed, 20 May 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TOEIC Listening Test 04</title>
+      <description>TOEIC Listening Test 04 practice audio.</description>
+      <itunes:summary>TOEIC Listening Test 04 practice audio.</itunes:summary>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>0:47:03</itunes:duration>
+      <itunes:image href="https://media.githubusercontent.com/media/TastyHeadphones/TOEIC/main/artwork/podcast-cover.jpg" />
+      <enclosure url="https://media.githubusercontent.com/media/TastyHeadphones/TOEIC/main/Audio/toeic-listening-test-04.mp3" length="45171357" type="audio/mpeg" />
+      <guid isPermaLink="false">toeic-listening-test-04</guid>
+      <pubDate>Wed, 20 May 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TOEIC Listening Test 05</title>
+      <description>TOEIC Listening Test 05 practice audio.</description>
+      <itunes:summary>TOEIC Listening Test 05 practice audio.</itunes:summary>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>0:47:17</itunes:duration>
+      <itunes:image href="https://media.githubusercontent.com/media/TastyHeadphones/TOEIC/main/artwork/podcast-cover.jpg" />
+      <enclosure url="https://media.githubusercontent.com/media/TastyHeadphones/TOEIC/main/Audio/toeic-listening-test-05.mp3" length="45396219" type="audio/mpeg" />
+      <guid isPermaLink="false">toeic-listening-test-05</guid>
+      <pubDate>Wed, 20 May 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TOEIC Listening Test 06</title>
+      <description>TOEIC Listening Test 06 practice audio.</description>
+      <itunes:summary>TOEIC Listening Test 06 practice audio.</itunes:summary>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>0:46:53</itunes:duration>
+      <itunes:image href="https://media.githubusercontent.com/media/TastyHeadphones/TOEIC/main/artwork/podcast-cover.jpg" />
+      <enclosure url="https://media.githubusercontent.com/media/TastyHeadphones/TOEIC/main/Audio/toeic-listening-test-06.mp3" length="45009189" type="audio/mpeg" />
+      <guid isPermaLink="false">toeic-listening-test-06</guid>
+      <pubDate>Wed, 20 May 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TOEIC Listening Test 07</title>
+      <description>TOEIC Listening Test 07 practice audio.</description>
+      <itunes:summary>TOEIC Listening Test 07 practice audio.</itunes:summary>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>0:46:51</itunes:duration>
+      <itunes:image href="https://media.githubusercontent.com/media/TastyHeadphones/TOEIC/main/artwork/podcast-cover.jpg" />
+      <enclosure url="https://media.githubusercontent.com/media/TastyHeadphones/TOEIC/main/Audio/toeic-listening-test-07.mp3" length="44975334" type="audio/mpeg" />
+      <guid isPermaLink="false">toeic-listening-test-07</guid>
+      <pubDate>Wed, 20 May 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TOEIC Listening Test 08</title>
+      <description>TOEIC Listening Test 08 practice audio.</description>
+      <itunes:summary>TOEIC Listening Test 08 practice audio.</itunes:summary>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>0:46:47</itunes:duration>
+      <itunes:image href="https://media.githubusercontent.com/media/TastyHeadphones/TOEIC/main/artwork/podcast-cover.jpg" />
+      <enclosure url="https://media.githubusercontent.com/media/TastyHeadphones/TOEIC/main/Audio/toeic-listening-test-08.mp3" length="44904699" type="audio/mpeg" />
+      <guid isPermaLink="false">toeic-listening-test-08</guid>
+      <pubDate>Wed, 20 May 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TOEIC Listening Test 09</title>
+      <description>TOEIC Listening Test 09 practice audio.</description>
+      <itunes:summary>TOEIC Listening Test 09 practice audio.</itunes:summary>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>0:46:47</itunes:duration>
+      <itunes:image href="https://media.githubusercontent.com/media/TastyHeadphones/TOEIC/main/artwork/podcast-cover.jpg" />
+      <enclosure url="https://media.githubusercontent.com/media/TastyHeadphones/TOEIC/main/Audio/toeic-listening-test-09.mp3" length="44904281" type="audio/mpeg" />
+      <guid isPermaLink="false">toeic-listening-test-09</guid>
+      <pubDate>Wed, 20 May 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TOEIC Listening Test 10</title>
+      <description>TOEIC Listening Test 10 practice audio.</description>
+      <itunes:summary>TOEIC Listening Test 10 practice audio.</itunes:summary>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>0:46:59</itunes:duration>
+      <itunes:image href="https://media.githubusercontent.com/media/TastyHeadphones/TOEIC/main/artwork/podcast-cover.jpg" />
+      <enclosure url="https://media.githubusercontent.com/media/TastyHeadphones/TOEIC/main/Audio/toeic-listening-test-10.mp3" length="45108245" type="audio/mpeg" />
+      <guid isPermaLink="false">toeic-listening-test-10</guid>
+      <pubDate>Wed, 20 May 2026 13:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
